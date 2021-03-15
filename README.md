@@ -3,13 +3,13 @@
 Debian
 
 ```bash
-apt install libsasl2-dev
+apt install python3-dev libldap2-dev libsasl2-dev
 ```
 
 Centos
 
 ```bash
-yum install openldap-devel.x86_64 libgsasl-devel.x86_64
+yum install python3-devel openldap-devel.x86_64 libgsasl-devel.x86_64
 ```
 
 Alpine
